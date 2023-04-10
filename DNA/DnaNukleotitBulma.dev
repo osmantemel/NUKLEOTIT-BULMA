@@ -1,6 +1,6 @@
 [Project]
-FileName=rustu2.dev
-Name=rustu2
+FileName=DnaNukleotitBulma.dev
+Name=DnaNukleotitBulma
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=rustu2.c
+FileName=main.c
 CompileCpp=0
 Folder=
 Compile=1
